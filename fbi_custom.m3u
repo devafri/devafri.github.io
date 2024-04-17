@@ -31,3 +31,5 @@ https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
