@@ -25,6 +25,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
 #EXTINF:-1 tvg-id="WMARDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="Local-ABC",ABC 2 Baltimore MD (WMAR) (720p)
 https://lnc-wmar.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 #EXTINF:-1 tvg-id="WBALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png" group-title="Local-NBC",NBC 11 Baltimore MD (WBAL) (720p)
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+
